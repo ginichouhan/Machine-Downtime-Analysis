@@ -92,7 +92,4 @@ Dataset includes:
 **Ragini Chouhan**  
 [LinkedIn Profile](https://www.linkedin.com/in/ragini-chouhan-a64a711a0/)
 
----
-
-> 📌 *This project demonstrates real-world data cleaning, EDA, and storytelling skills essential for a data analyst role.*
 
